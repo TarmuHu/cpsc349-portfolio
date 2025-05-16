@@ -2,34 +2,31 @@
 
 This is my personal portfolio website created for the CPSC 349 Web Development course. It showcases my background, skills, and projects through a modern and responsive design using HTML, CSS, and JavaScript.
 
-## 🌐 Live Website
+---
 
-[https://your-deployed-site-url.com](https://your-deployed-site-url.com) <!-- Replace with actual URL if deployed -->
+## 🚀 How to Run the Project From Scratch
 
-## 🧑 About Me
+> Follow these steps to run the project locally on any computer.
 
-I’m a Computer Science student at Cal State Fullerton with a passion for building creative and impactful software. This portfolio highlights my work in mobile and game development, and my interests in magic, storytelling, and teamwork.
+### 1. Clone the Repository
 
-## 📁 Features
+If you haven’t already, install **Git**: https://git-scm.com/downloads
 
-- Responsive layout for desktop and mobile devices
-- Animated fade-in effects using JavaScript Intersection Observer
-- Contact form (simulated with alert popup)
-- Detailed project pages with screenshots and demos
-- Resume view and download links
-- Consistent navigation bar across all pages
+Then open your terminal or PowerShell and run:
 
-## 🛠️ Technologies Used
+```bash
+git clone https://github.com/your-username/cpsc349-portfolio.git
+```
 
-- HTML5
-- CSS3 (custom and responsive media queries)
-- Vanilla JavaScript (no frameworks)
-- Firebase (used in Hibernate app deployment)
-- YouTube and Google Drive embeds for project demos
+### 2. Navigate to the Project Folder
 
-## 🚀 How to Run the Website Locally
+```bash
+cd cpsc349-portfolio
+```
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+### 3. Open the Website
+Open the index.html file in your web browser:
 
+Option 1: Double-click index.html in the project folder
+
+Option 2 (Recommended): Right-click index.html → Open with → your browser
