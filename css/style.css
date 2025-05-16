@@ -140,6 +140,20 @@ img:hover {
   transform: translateY(0);
 }
 
+.button-link {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background-color: #343a40;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+.button-link:hover {
+  background-color: #495057;
+}
+
 /* Dropdown menu styles */
 .dropdown {
   position: relative;
