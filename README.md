@@ -27,6 +27,4 @@ cd cpsc349-portfolio
 ### 3. Open the Website
 Open the index.html file in your web browser:
 
-Option 1: Double-click index.html in the project folder
-
-Option 2 (Recommended): Right-click index.html → Open with → your browser
+>Double-click index.html in the project folder
