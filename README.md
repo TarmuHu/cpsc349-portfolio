@@ -4,6 +4,15 @@ This is my personal portfolio website created for the CPSC 349 Web Development c
 
 ---
 
+## 🌐 Live Website
+
+The portfolio is deployed using **GitHub Pages** and can be accessed here:
+
+🔗 [https://tarmuhu.github.io/cpsc349-portfolio/](https://tarmuhu.github.io/cpsc349-portfolio/)
+
+
+---
+
 ## 🚀 How to Run the Project From Scratch
 
 > Follow these steps to run the project locally on any computer.
